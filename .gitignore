@@ -3,3 +3,4 @@ yarn.lock
 .next
 .vscode
 _git
+package-lock.json
